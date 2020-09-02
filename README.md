@@ -1,1 +1,1 @@
-# OpenGL---Computer-Graphics-Projects
+# OpenGL -- Computer-Graphics-Projects
